@@ -1,0 +1,6 @@
+{
+  "name": "RemindPulse",
+  "description": "Smart task reminders with push notifications, recurring event schedules, and customizable alert tones for critical deadlines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
